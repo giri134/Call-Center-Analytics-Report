@@ -104,6 +104,4 @@ This project demonstrates how Excel can be effectively used for data analytics t
 ---
 
 ## 👨‍💻 Made by 
-
-Your Name
 M.Giridhar kumar/https://www.linkedin.com/in/giridharkumarmanyam/
