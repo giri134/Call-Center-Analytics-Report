@@ -68,8 +68,13 @@ The dataset contains the following key fields:
 ## 📷 Dashboard Preview
 <img width="1581" height="769" alt="Screenshot 2026-05-07 112022" src="https://github.com/user-attachments/assets/97680c33-d81e-4589-a21e-90771ded8abe" />
 
+## 📷Raw Data Set
 <img width="1858" height="734" alt="Screenshot 2026-05-07 113004" src="https://github.com/user-attachments/assets/8c55729d-0116-452e-9f4b-56e8c2d27cd0" />
 
+## 📷pivots and assets
+<img width="1330" height="737" alt="Screenshot 2026-05-07 113018" src="https://github.com/user-attachments/assets/77370d09-8cf4-408d-94f0-5426405d21c1" />
+
+<img width="1118" height="712" alt="Screenshot 2026-05-07 113028" src="https://github.com/user-attachments/assets/8ff7a466-e412-4392-8ffe-c74cc82a73e2" />
 
 
 ---
@@ -89,7 +94,7 @@ This project demonstrates how Excel can be effectively used for data analytics t
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Made by 
 
 Your Name
-(Add your LinkedIn/GitHub profile link here)
+M.Giridhar kumar/https://www.linkedin.com/in/giridharkumarmanyam/
