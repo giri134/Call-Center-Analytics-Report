@@ -66,7 +66,13 @@ The dataset contains the following key fields:
 ---
 
 ## 📷 Dashboard Preview
-<img width="1581" height="769" alt="Screenshot 2026-05-07 112022" src="https://github.com/user-attachments/assets/97680c33-d81e-4589-a21e-90771ded8abe" />
+
+
+https://github.com/user-attachments/assets/2a8c59c0-0622-4329-a5d3-3650d8ae2d2a
+
+
+
+
 
 ## 📷Raw Data Set
 <img width="1858" height="734" alt="Screenshot 2026-05-07 113004" src="https://github.com/user-attachments/assets/8c55729d-0116-452e-9f4b-56e8c2d27cd0" />
